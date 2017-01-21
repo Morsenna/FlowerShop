@@ -1,2 +1,2 @@
-# FlowerShop. Updating HLR.
+# FlowerShop.
 
